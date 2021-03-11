@@ -42,6 +42,7 @@
         android:layout_gravity="bottom|end"
         android:layout_margin="16dp"
         android:src="@android:drawable/ic_popup_sync"
+        android:contentDescription="@string/refresh"
         app:fabSize="normal"/>
     
 

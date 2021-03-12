@@ -1,2 +1,2 @@
-# Estudo-API-Android-Client
-Estudo de API no android com ContentProvider do lado do Cliente
+# Estudo ContentProvider Android Client
+Estudo de ContentProvider em Android no lado cliente
